@@ -1,4 +1,4 @@
-#MyBatis foreach, parameterType List,Model,Map
+# MyBatis foreach, parameterType List,Model,Map
 
 ```
 <insert id="insert"parameterType="java.util.List">
@@ -19,10 +19,11 @@
  ${} : 데이터 값 그대로 전달. ' ' 없음. ${} 는 SQL injection 문제에 취약
 
  방금 INSERT 된 Seq 가져오기
+```
  <insert id="insertData" parameterType="DataClass" useGeneratedKeys="true"   keyProperty="id">
      /* query */
 </insert>
- 
+```
 
  [참조링크]
 https://myeongdev.tistory.com/30?category=1009844
