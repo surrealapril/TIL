@@ -1,4 +1,4 @@
-#Gson Parsing getAsString()vs toString
+# Gson Parsing getAsString()vs toString
 
 Json 과 Gson의 차이.
 - getAsString() : " " 1개
