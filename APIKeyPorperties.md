@@ -1,4 +1,4 @@
-#API Key 숨기기
+# API Key 숨기기
 
 API Key는 config.properties에 따로 관리
 root-context.xml 파일 수정하여 properties 추가
