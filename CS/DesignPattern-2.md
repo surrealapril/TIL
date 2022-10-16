@@ -9,7 +9,7 @@
 - 프록시 서버 대표 : nginx. (node.js의 버퍼 오버플로우 취약점을 예방하기 위해 사용) 익명 사용자의 직접적인 서버로의 접근을 차단하고 간접적으로 한 단계를 더 거침으로써 **보안성**을 더욱 강화.
     - 실제 포트를 숨기고, 정적 자원을 gzip 압축 or 메인 서버 앞단에서 로깅
 
-![Proxy Server](../resource/proxy.png)
+![Proxy Server](../Resource/proxy.png)
 
 
 ### 🌞 이터레이터(Iterator) 패턴
